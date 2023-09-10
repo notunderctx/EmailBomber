@@ -1,5 +1,8 @@
-![b](https://www.pinclipart.com/picdir/middle/26-263682_bomb-svg-png-icon-free-download-425540-onlinewebfonts.png)
-# E M A I L B O M B E R 
-![b](https://www.pinclipart.com/picdir/middle/26-263682_bomb-svg-png-icon-free-download-425540-onlinewebfonts.png)
+<img src="https://www.pinclipart.com/picdir/middle/26-263682_bomb-svg-png-icon-free-download-425540-onlinewebfonts.png" alt="Email Bomber" width="200"/>
+
+# E M A I L B O M B E R
+
+<img src="https://www.pinclipart.com/picdir/middle/26-263682_bomb-svg-png-icon-free-download-425540-onlinewebfonts.png" alt="Bomb Icon" width="100"/>
+
 
 
